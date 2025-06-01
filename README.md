@@ -1,5 +1,6 @@
 # Architecture-microservices-backend
 🏡 Sistema de Gestión Inmobiliaria Basado en Microservicios
+
 API REST basada en microservicios para la compra y mantenimiento de inmuebles, así como el registro y gestión de usuarios. Desarrollado con Spring Boot, el sistema consta de 4 microservicios que utilizan Spring Security para la autenticación y autorización, Eureka Server para el descubrimiento de servicios y Spring Feign para la comunicación interna. La persistencia de datos se maneja con MySQL, PostgreSQL y H2 (para desarrollo).
 
 🚀 Microservicios
